@@ -1,0 +1,11 @@
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/bin/Debug/net9.0/EmployeeLib.deps.json
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/bin/Debug/net9.0/EmployeeLib.dll
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/bin/Debug/net9.0/EmployeeLib.pdb
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.AssemblyInfoInputs.cache
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.AssemblyInfo.cs
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.csproj.CoreCompileInputs.cache
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.dll
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/refint/EmployeeLib.dll
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.pdb
+/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/ref/EmployeeLib.dll

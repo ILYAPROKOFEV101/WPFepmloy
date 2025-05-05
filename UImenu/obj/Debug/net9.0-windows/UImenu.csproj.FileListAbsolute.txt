@@ -22,3 +22,4 @@ C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\UImenu\obj\Debug\net9.0-windows\re
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\UImenu\obj\Debug\net9.0-windows\UImenu.pdb
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\UImenu\obj\Debug\net9.0-windows\UImenu.genruntimeconfig.cache
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\UImenu\obj\Debug\net9.0-windows\ref\UImenu.dll
+C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\UImenu\bin\Debug\net9.0-windows\Newtonsoft.Json.dll

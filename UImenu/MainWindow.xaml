@@ -49,17 +49,20 @@
         </StackPanel>
 
         <!-- Вот тут вместо ListBox — DataGrid -->
-        <DataGrid x:Name="EmployeeDataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False">
+        <DataGrid x:Name="EmployeeDataGrid" Grid.Row="1" AutoGenerateColumns="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Имя" Binding="{Binding Name}" />
-                <DataGridTextColumn Header="Дата рождения" Binding="{Binding Birthday, StringFormat=dd.MM.yyyy}" />
-                <DataGridTextColumn Header="Начало работы" Binding="{Binding StartDate, StringFormat=dd.MM.yyyy}" />
+                <DataGridTextColumn Header="Дата рождения" Binding="{Binding Birthday, StringFormat={}{0:dd.MM.yyyy}}" />
+                <DataGridTextColumn Header="Дата начала работы" Binding="{Binding WorkStartDate, StringFormat={}{0:dd.MM.yyyy}}" />
                 <DataGridTextColumn Header="Пол" Binding="{Binding Gender}" />
                 <DataGridTextColumn Header="Образование" Binding="{Binding Education}" />
                 <DataGridTextColumn Header="Должность" Binding="{Binding Position}" />
-                <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat=C}" />
+                <!-- Здесь меняем формат зарплаты на рубли -->
+                <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary, StringFormat={}{0:N2} ₽}" />
             </DataGrid.Columns>
         </DataGrid>
+
+
     </Grid>
 </Window>
 

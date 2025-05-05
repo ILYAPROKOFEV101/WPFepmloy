@@ -28,15 +28,24 @@ using System.Windows;
 using System.Windows.Controls;
 using EmployeeLib;
 
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Windows;
+using EmployeeLib;
+using Newtonsoft.Json;
+
 namespace UImenu
 {
     public partial class MainWindow : Window
     {
         private List<Employee> _employees = new List<Employee>();
+        private const string FilePath = "employees.json";  // Путь к файлу для сохранения
 
         public MainWindow()
         {
             InitializeComponent();
+            LoadEmployees();  // Загружаем данные при старте
         }
 
         private void AddEmployee_Click(object sender, RoutedEventArgs e)
@@ -64,6 +73,7 @@ namespace UImenu
                 _employees.Add(emp);
 
                 RefreshEmployeeList();
+                SaveEmployees();  // Сохраняем данные в файл
 
                 MessageBox.Show("Сотрудник успешно добавлен! 🎉");
             }
@@ -77,6 +87,36 @@ namespace UImenu
         {
             EmployeeDataGrid.ItemsSource = null;
             EmployeeDataGrid.ItemsSource = _employees;
+        }
+
+        private void SaveEmployees()
+        {
+            try
+            {
+                string json = JsonConvert.SerializeObject(_employees, Formatting.Indented);  // Сериализуем в JSON
+                File.WriteAllText(FilePath, json);  // Сохраняем в файл
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка при сохранении данных: {ex.Message}");
+            }
+        }
+
+        private void LoadEmployees()
+        {
+            try
+            {
+                if (File.Exists(FilePath))
+                {
+                    string json = File.ReadAllText(FilePath);  // Читаем данные из файла
+                    _employees = JsonConvert.DeserializeObject<List<Employee>>(json);  // Десериализуем
+                    RefreshEmployeeList();  // Обновляем отображение
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка при загрузке данных: {ex.Message}");
+            }
         }
     }
 }

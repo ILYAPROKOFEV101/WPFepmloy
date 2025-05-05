@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ClKVkg6nX/o=",
+  "dgSpecHash": "8jPaT6qCjAo=",
   "success": true,
   "projectFilePath": "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\UImenu\\UImenu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ilyaprokofev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,47 +1,65 @@
 [
   {
-    "Name": "\u0418\u043B\u044C\u044F",
+    "Name": "Илья",
     "Birthday": "2025-05-15T00:00:00",
     "WorkStartDate": "2025-05-08T00:00:00",
     "Gender": "M",
     "Education": 0,
     "Position": 3,
-    "Salary": 120000
+    "Salary": 120000.0
   },
   {
-    "Name": "\u0418\u043B\u044C\u044F",
+    "Name": "Илья",
     "Birthday": "2025-05-15T00:00:00",
     "WorkStartDate": "2025-05-08T00:00:00",
     "Gender": "M",
     "Education": 0,
     "Position": 3,
-    "Salary": 120000
+    "Salary": 120000.0
   },
   {
-    "Name": "\u0418\u043B\u044C\u044F ",
+    "Name": "Илья ",
     "Birthday": "1991-03-01T00:00:00",
     "WorkStartDate": "1991-12-08T00:00:00",
     "Gender": "M",
     "Education": 0,
     "Position": 2,
-    "Salary": 150000
+    "Salary": 150000.0
   },
   {
-    "Name": "\u0418\u043B\u044C\u044F ",
+    "Name": "Илья ",
     "Birthday": "1991-03-01T00:00:00",
     "WorkStartDate": "1991-12-08T00:00:00",
     "Gender": "M",
     "Education": 0,
     "Position": 2,
-    "Salary": 150000
+    "Salary": 150000.0
   },
   {
-    "Name": "\u0418\u043B\u044C\u044F ",
+    "Name": "Илья ",
     "Birthday": "1991-03-01T00:00:00",
     "WorkStartDate": "1991-12-08T00:00:00",
     "Gender": "M",
     "Education": 0,
     "Position": 2,
-    "Salary": 150000
+    "Salary": 150000.0
+  },
+  {
+    "Name": "Jhon",
+    "Birthday": "2001-03-08T00:00:00",
+    "WorkStartDate": "2019-12-07T00:00:00",
+    "Gender": "M",
+    "Education": 0,
+    "Position": 0,
+    "Salary": 300000.0
+  },
+  {
+    "Name": "Вася Питров ",
+    "Birthday": "1949-07-02T00:00:00",
+    "WorkStartDate": "1961-03-10T00:00:00",
+    "Gender": "F",
+    "Education": 4,
+    "Position": 4,
+    "Salary": 450000.0
   }
 ]

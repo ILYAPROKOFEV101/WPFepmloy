@@ -1,4 +1,7 @@
-﻿namespace EmployeeLib
+﻿using System.Globalization;
+using EmployeeLib;
+
+namespace EmployeeLib
 {
     public enum Education
     {
@@ -141,3 +144,5 @@
         
     }
 }
+
+

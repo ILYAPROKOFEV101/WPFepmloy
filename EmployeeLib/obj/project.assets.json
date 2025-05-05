@@ -8,11 +8,16 @@
     "net9.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\ilyaprokofev\\.nuget\\packages\\": {}
+=======
+    "/Users/ilyaprokofev/.nuget/packages/": {}
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\EmployeeLib\\EmployeeLib.csproj",
       "projectName": "EmployeeLib",
       "projectPath": "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\EmployeeLib\\EmployeeLib.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilyaprokofev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj",
+      "projectName": "EmployeeLib",
+      "projectPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj",
+      "packagesPath": "/Users/ilyaprokofev/.nuget/packages/",
+      "outputPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ilyaprokofev/.nuget/NuGet/NuGet.Config"
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +80,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Users\\ilyaprokofev\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/Users/ilyaprokofev/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
       }
     }
   }

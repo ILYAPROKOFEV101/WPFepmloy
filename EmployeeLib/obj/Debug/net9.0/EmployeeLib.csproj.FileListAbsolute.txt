@@ -9,6 +9,7 @@
 /Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/refint/EmployeeLib.dll
 /Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/EmployeeLib.pdb
 /Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/Debug/net9.0/ref/EmployeeLib.dll
+<<<<<<< HEAD
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\bin\Debug\net9.0\EmployeeLib.deps.json
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\bin\Debug\net9.0\EmployeeLib.dll
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\bin\Debug\net9.0\EmployeeLib.pdb
@@ -21,3 +22,5 @@ C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\obj\Debug\net9.0\Emplo
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\obj\Debug\net9.0\refint\EmployeeLib.dll
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\obj\Debug\net9.0\EmployeeLib.pdb
 C:\Users\ilyaprokofev\RiderProjects\WPFepmloy\EmployeeLib\obj\Debug\net9.0\ref\EmployeeLib.dll
+=======
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db

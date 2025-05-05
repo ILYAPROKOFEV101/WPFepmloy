@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 ﻿using System.Globalization;
 using EmployeeLib;
 
 namespace EmployeeLib
+=======
+﻿namespace EmployeeLib
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
 {
     public enum Education
     {
@@ -144,5 +148,8 @@ namespace EmployeeLib
         
     }
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db

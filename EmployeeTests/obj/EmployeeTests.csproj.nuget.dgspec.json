@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\EmployeeTests\\EmployeeTests.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilyaprokofev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeTests/EmployeeTests.csproj": {}
+  },
+  "projects": {
+    "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj",
+        "projectName": "EmployeeLib",
+        "projectPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj",
+        "packagesPath": "/Users/ilyaprokofev/.nuget/packages/",
+        "outputPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ilyaprokofev/.nuget/NuGet/NuGet.Config"
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,6 +76,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Users\\ilyaprokofev\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -74,6 +92,23 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ilyaprokofev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "runtimeIdentifierGraphPath": "/Users/ilyaprokofev/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeTests/EmployeeTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeTests/EmployeeTests.csproj",
+        "projectName": "EmployeeTests",
+        "projectPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeTests/EmployeeTests.csproj",
+        "packagesPath": "/Users/ilyaprokofev/.nuget/packages/",
+        "outputPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ilyaprokofev/.nuget/NuGet/NuGet.Config"
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -85,8 +120,13 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\EmployeeLib\\EmployeeLib.csproj": {
                 "projectPath": "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\EmployeeLib\\EmployeeLib.csproj"
+=======
+              "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj": {
+                "projectPath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj"
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
               }
             }
           }
@@ -132,7 +172,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Users\\ilyaprokofev\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/Users/ilyaprokofev/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
         }
       }
     }

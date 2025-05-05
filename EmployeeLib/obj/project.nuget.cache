@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "PpLtGe1ikSk=",
   "success": true,
   "projectFilePath": "C:\\Users\\ilyaprokofev\\RiderProjects\\WPFepmloy\\EmployeeLib\\EmployeeLib.csproj",
+=======
+  "dgSpecHash": "S509v2uftNA=",
+  "success": true,
+  "projectFilePath": "/Users/ilyaprokofev/RiderProjects/Testinglab2/EmployeeLib/EmployeeLib.csproj",
+>>>>>>> 86166efca1ffdf53a4758b9e68098e132d79b5db
   "expectedPackageFiles": [],
   "logs": []
 }
